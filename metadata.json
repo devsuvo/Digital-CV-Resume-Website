@@ -1,0 +1,6 @@
+{
+  "name": "Suvo Dev Digital CV",
+  "description": "Premium, modern, and interactive portfolio and ATS-friendly digital CV for Suvo Dev, Software Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
